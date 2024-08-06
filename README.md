@@ -1,5 +1,11 @@
 ## About Me
 
+| Preference | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| Html       |
+
 Hello there, Im contonium
 <br>
 ATM im learning full stack web development
