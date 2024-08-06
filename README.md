@@ -20,3 +20,16 @@ Either way Its fun to do.
 
 </details>
 
+<details>
+<summary>Website Development</summary>
+
+```mermaid
+graph TD;
+    Me-->Css;
+    Me-->Html;
+    Me-->JS;
+    Css-->Website;
+    Html-->Website;
+    JS-->Website;
+```
+</details>
