@@ -1,12 +1,5 @@
 ## About Me
 
-| Preference | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| Html       |
-|     4| Css      |
-
 <details>
 <summary>About Me</summary>
 
@@ -17,6 +10,13 @@ ATM im learning full stack web development
 Cant promise all my stuff works the best.
 <br>
 Either way Its fun to do.
+
+| Preference | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| Html       |
+|     4| Css      |
 
 </details>
 
