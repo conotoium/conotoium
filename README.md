@@ -13,8 +13,8 @@ Either way Its fun to do.
 
 | Preference | Languages |
 |-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
+|     1| Python|
+|     2| Javascript    |
 |     3| Html       |
 |     4| Css      |
 
